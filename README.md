@@ -2,4 +2,6 @@
 01.03.2023 tarihinde kontrol edilmiştir!
 
 
-Eğer İleride Calışmaz ise Geri Düzeltirim Merak Etmeyin!
+Actions'da hata var 
+https://github.com/Rion43/RionVds/
+Bu linki kullanın!
